@@ -1,4 +1,4 @@
-![gif from nerdy.dev](https://media.giphy.com/media/8YTKIi3WJjvux2GS32/giphy.gif)
+(https://media.giphy.com/media/8YTKIi3WJjvux2GS32/giphy.gif)
 
 - 👋 Hi, I’m @ezsowmmo
 - 👀 I’m an UI/UX designer who loves front end coding time to time
