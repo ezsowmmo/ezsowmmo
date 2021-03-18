@@ -1,4 +1,4 @@
-!(https://media.giphy.com/media/8YTKIi3WJjvux2GS32/giphy.gif)
+![gif from giphy](https://media.giphy.com/media/8YTKIi3WJjvux2GS32/giphy.gif)
 
 - 👋 Hi, I’m @ezsowmmo
 - 👀 I’m an UI/UX designer who loves front end coding time to time
