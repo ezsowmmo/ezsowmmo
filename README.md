@@ -1,4 +1,4 @@
-![gif from nerdy.dev](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
+![gif from ezsowmmo](https://gph.is/2CdSsUN?raw=true)
 <!---
 - 👋 Hi, I’m @ezsowmmo
 - 👀 I’m an UI/UX designer who loves front end coding time to time
