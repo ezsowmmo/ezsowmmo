@@ -1,7 +1,7 @@
 <table>
    <tr>
     <td>
-      ![gif from giphy](https://media.giphy.com/media/8YTKIi3WJjvux2GS32/giphy.gif)
+![gif from giphy](https://media.giphy.com/media/8YTKIi3WJjvux2GS32/giphy.gif)
       </td>
         <td>
 - 👋 Hi, I’m @ezsowmmo
