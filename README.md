@@ -1,4 +1,4 @@
-![gif from nerdy.dev](https://gph.is/2CdSsUN?raw=true)
+![gif from nerdy.dev](https://gph.is/2CdSsUN)
 <!---
 - 👋 Hi, I’m @ezsowmmo
 - 👀 I’m an UI/UX designer who loves front end coding time to time
