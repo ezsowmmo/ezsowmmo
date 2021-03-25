@@ -3,8 +3,9 @@
 
 - 👋 Hi, I’m @ez_sowmmo
 - 👀 I’m an UI/UX designer who loves front end coding time to time
-- 📫 Reach out to me at ezsowmmo@gmail.com
 - 💀 Checkout my Portfolio at http://ez.funknoodlesstudio.com/
+- ⚡ Check Out my LinkedIn profile at https://www.linkedin.com/in/sowmmo/
+- 📫 Reach out to me at ezsowmmo@gmail.com
  
 
 
