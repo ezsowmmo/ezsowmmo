@@ -2,7 +2,7 @@
 ![gif from giphy](https://media.giphy.com/media/bpmNf92LmkoMw/giphy.gif)
 
 - 👋 Hi, I’m @ez_sowmmo
-- 👀 I’m an UI/UX designer who loves front end coding time to time
+- 👀 I’m a product designer who loves to code front end time to time
 - 💀 Checkout my Portfolio at http://ez.funknoodlesstudio.com/
 - ⚡ Check Out my LinkedIn profile at https://www.linkedin.com/in/sowmmo/
 - 📫 Reach out to me at ezsowmmo@gmail.com
