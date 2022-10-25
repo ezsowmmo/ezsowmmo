@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @ez_sowmmo
 - 👀 I’m a product designer who loves to code front end time to time
-- 💀 Checkout my Portfolio at http://ez.funknoodlesstudio.com/
+- 💀 Checkout my Portfolio at https://ez.funknoodlesstudio.com/
 - ⚡ Check Out my LinkedIn profile at https://www.linkedin.com/in/sowmmo/
 - 📫 Reach out to me at ezsowmmo@gmail.com
  
